@@ -1,0 +1,5 @@
+课程部分软件、mnist默认数据集、vgg16模型文件下载（防止部分同学直接下载速度过慢）
+
+链接：https://pan.baidu.com/s/15OpfJYmkI2CultKR4MTbDw 
+提取码：8spt 
+复制这段内容后打开百度网盘手机App，操作更方便哦
